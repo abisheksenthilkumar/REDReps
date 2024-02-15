@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134031791355",
+    "project_id": "redreps-dcffe",
+    "storage_bucket": "redreps-dcffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134031791355:android:24f3b1d583042dba0b8c5e",
+        "android_client_info": {
+          "package_name": "com.example.redrepss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFtF7B06REfBw988vdDcjPNZ25v3bY_DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
